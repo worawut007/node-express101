@@ -1,0 +1,12 @@
+node_modules
+data
+.env
+logs
+dist
+coverage
+*.lock
+apidoc/des
+yarn-error.log
+npm-debug.log
+.nyc_output
+mongod

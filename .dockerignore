@@ -1,0 +1,15 @@
+node_modules
+Dockerfile
+logs
+data
+.gitignore
+.env
+docker-compose.yml
+apidoc/des
+coverage
+*.lock
+yarn-error.log
+npm-debug.log
+.nyc_output
+README.md
+
